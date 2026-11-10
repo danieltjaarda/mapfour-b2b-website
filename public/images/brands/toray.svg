@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="23.323 -0.001 252.275 52.724" style="">
+  <defs>
+    <clipPath clipPathUnits="userSpaceOnUse">
+      <path d="m 0,0 1190.552,0 0,841.89 L 0,841.89 0,0 Z"/>
+    </clipPath>
+  </defs>
+  <g transform="translate(-608.96718,-734.98259)">
+    <g transform="matrix(2.3694648,0,0,-2.3694648,-898.55493,2664.399)">
+      <g clip-path="url(#clipPath5432)">
+        <g transform="translate(652.7926,813.8616)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 -6.298,-8.62 5.668,0 L 5.557,0 0,0 Z"/>
+        </g>
+        <g transform="translate(746.5626,813.8616)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 -6.298,-8.62 5.669,0 L 5.556,0 0,0 Z"/>
+        </g>
+        <g transform="translate(717.8566,804.4241)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 1.704,-4.991 -3.404,0 L 0,0 Z m -3.901,-11.446 1.023,2.996 5.758,0.002 1.023,-2.998 4.485,0 -5.879,16.744 -5.114,0 -5.803,-16.744 4.507,0 z"/>
+        </g>
+        <g transform="translate(698.9957,805.8782)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 0,0 C 1.643,0.017 3.144,-0.155 3.144,-1.69 3.144,-3.227 1.906,-3.601 0,-3.583 L 0,0 Z m 0,-12.898 0,5.647 3.849,-5.647 5.256,0 -4.607,6.711 c 1.828,0.893 2.915,2.781 2.927,4.639 0.022,3.589 -2.867,5.393 -4.927,5.393 l -7.067,-0.001 0,-16.742 4.569,0 z"/>
+        </g>
+        <g transform="translate(657.1583,809.7224)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 0,-4.482 4.998,0.002 0,-12.262 4.998,0 0,12.26 4.722,0 0,4.482 L 0,0 Z"/>
+        </g>
+        <g transform="translate(682.2872,796.4573)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 c -2.453,0 -4.498,2.191 -4.498,4.893 0,2.701 1.926,4.892 4.498,4.892 2.572,0 4.499,-2.191 4.499,-4.892 C 4.499,2.191 2.453,0 0,0 m 0.001,13.786 c -6.274,0 -9.341,-3.981 -9.341,-8.893 0,-4.913 3.357,-8.895 9.341,-8.895 5.982,0 9.338,3.982 9.338,8.895 0,4.912 -3.066,8.893 -9.338,8.893"/>
+        </g>
+        <g transform="translate(682.2872,796.4573)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 0,0 c -2.453,0 -4.498,2.191 -4.498,4.893 0,2.701 1.926,4.892 4.498,4.892 2.572,0 4.499,-2.191 4.499,-4.892 C 4.499,2.191 2.453,0 0,0 m 0.001,13.786 c -6.274,0 -9.341,-3.981 -9.341,-8.893 0,-4.913 3.357,-8.895 9.341,-8.895 5.982,0 9.338,3.982 9.338,8.895 0,4.912 -3.066,8.893 -9.338,8.893"/>
+        </g>
+        <g transform="translate(735.7413,809.7224)">
+          <path style="fill:#014099;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 0,0 -2.883,-4.42 -5.771,0 l -5.357,0 6.005,-8.753 0,-7.99 4.479,0 0,7.99 L 5.358,0 0,0 Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
